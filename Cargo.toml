@@ -1,0 +1,8 @@
+[package]
+name = "cargo_lifting_simulator"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/Minyewoo/cargo_lifting_simulator"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
