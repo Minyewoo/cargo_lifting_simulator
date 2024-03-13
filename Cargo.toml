@@ -6,3 +6,4 @@ repository = "https://github.com/Minyewoo/cargo_lifting_simulator"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
+bevy = "0.13.0"
